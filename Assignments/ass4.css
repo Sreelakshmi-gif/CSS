@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(29, 204, 227);
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    align-items: center;
+    margin: 45px;
+    
+}
+h1{
+    background-color: blue;
+    width: 250px;
+    height: 200px;
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    
+
+}

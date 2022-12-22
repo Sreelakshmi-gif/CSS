@@ -1,0 +1,43 @@
+*{
+    margin:0;
+}
+.exp{
+    height: 10vh;
+    background-color: rgb(0, 123, 255);
+    display: flex;
+    align-items: center;
+    color: white;
+    padding: 00 20px ;
+
+}
+.content{
+    height: 80vh;
+    width: 70vw;
+    background-color: rgb(0, 255, 221);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3em;
+}
+.aside{
+    height: 80vh;
+    width: 30vw;
+    background-color: #f89a28d0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.5em;
+}
+.mid{
+    display: flex;
+}
+.footer{
+    height: 10vh;
+    background-color: rgb(102, 163, 227);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
